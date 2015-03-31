@@ -1,6 +1,6 @@
 # recipes
 
-Rod's recipes that kind of work. Many ingredients ordered from these vendors.
+Rod's recipes that kind of work. Many ingredients ordered from [these vendors](vendors.md). Here are [more recipes](future.md) I'd like to try.
 
 
 ## Winners
