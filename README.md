@@ -8,7 +8,7 @@ Rod's recipes that kind of work. Many ingredients ordered from these vendors.
 ### [Pork Chili](winners/pork_chili.md)
 Stove-top chili with diced pork shoulder.
 
-### Dirty Rice
+### [Dirty Rice](winners/dirty_rice.md)
 Brown rice with pork sausage and minced chicken livers.
 
 ### Mexican Rice
