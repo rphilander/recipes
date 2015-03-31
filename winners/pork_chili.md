@@ -37,7 +37,7 @@ Adapted from [Game-Day Pork and Black Bean Chili](http://www.foodandwine.com/rec
 
 ### Simmer
 
-1. Add chick stock.
+1. Add chicken stock.
 2. Add tomatoes.
 3. Rinse and add beans.
 4. Simmer covered with lid slightly off until beans start to soften **30-45 minutes**.
